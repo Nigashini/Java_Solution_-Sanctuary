@@ -28,7 +28,7 @@ The repository is organized as follows:
   ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/geeks-for-geeks-160-days-challenge.git
+   https://github.com/Nigashini/Java_Solution_-Sanctuary.git
    ```
 2. Navigate to the desired day's folder to view the solutions.
 3. Open the `.java` files in your preferred IDE to run and test.
